@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building my profile and enahancing my social skills
-- 🌱 I’m currently learning React and JS
-- 📫 How to reach me: https://www.linkedin.com/in/huthaifa-jamal-ba11b6190/
+- 🔭 I’m currently working on building my profile and enahancing my social skills.
+- 🌱 I’m currently a Software Engineering student in my 4th year.
+- 📫 How to reach me: www.linkedin.com/in/huthaifa-jamal
 - ⚡ Fun fact: I'm not a meme lord, but I meme a lot.
 <!--
 **Huthaifa-Dev/Huthaifa-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
