@@ -6,7 +6,7 @@
 - 💬 &nbsp;Here is my CV: [Huthaifa Salman CV](https://docs.google.com/document/d/16Q0H4fbU4Ln4jeXZLc8lAY5dC5GkvWuNr7OQ-_B9SJg/edit?usp=sharing)
 - ⚡ Fun fact: I'm not a meme lord, but I meme a lot.
 
-### Connect with me:
+🔗 &nbsp;**Connect with me**
 
 [<img align="left" alt="Huthaifa Salman | LinkedIn" width="35px" src="https://user-images.githubusercontent.com/62269745/151352812-ab8645ba-919e-4817-a4ff-3688b0bd08b6.svg" />][linkedin]
 [<img align="left" alt="Huthaifa Salman | Instagram" width="35px" src="https://user-images.githubusercontent.com/62269745/151352769-630430ce-bb59-4414-b01b-1e26e17a7535.svg" />][instagram]
@@ -20,6 +20,12 @@
 <br/>
 <br/>
 
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Huthaifa-Dev&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
 
 
 ### Languages and Tools:
