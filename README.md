@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 - 🔭 I’m currently working on building my profile and enahancing my social skills.
 - 🌱 I’m currently a Software Engineering student in my 4th year.
