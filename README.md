@@ -1,9 +1,9 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-- 🔭 I’m currently working on building my profile and enahancing my social skills.
-- 🌱 I’m currently a Software Engineering student in my 4th year.
+- 🔭 &nbsp;I’m currently building my profile and enahancing my social skills.
+- 🌱 &nbsp;I’m currently a Software Engineering student in my 4th year.
 - 📫 How to reach me: www.linkedin.com/in/huthaifa-jamal
-- 💬 Here is my CV: [Huthaifa Salman CV](https://docs.google.com/document/d/16Q0H4fbU4Ln4jeXZLc8lAY5dC5GkvWuNr7OQ-_B9SJg/edit?usp=sharing)
+- 💬 &nbsp;Here is my CV: [Huthaifa Salman CV](https://docs.google.com/document/d/16Q0H4fbU4Ln4jeXZLc8lAY5dC5GkvWuNr7OQ-_B9SJg/edit?usp=sharing)
 - ⚡ Fun fact: I'm not a meme lord, but I meme a lot.
 
 ### Connect with me:
