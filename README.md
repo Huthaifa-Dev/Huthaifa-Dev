@@ -24,17 +24,17 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/62269745/151358432-5e114212-1d71-4339-9066-7712f56326f0.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://user-images.githubusercontent.com/62269745/151359079-35edc521-9e79-4539-b542-8a7bb6234495.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://user-images.githubusercontent.com/62269745/151359335-1e65cadc-df9f-4cf2-951b-b667fa293457.svg" />
-<img align="left" alt="Sass" width="26px" src="https://user-images.githubusercontent.com/62269745/151359639-ba2b6625-ab9b-4f35-9b22-1cea4447de68.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/62269745/151359936-62b0bb5a-20e8-44c8-8fd6-38662eba3a88.svg" />
-<img align="left" alt="React" width="26px" src="https://user-images.githubusercontent.com/62269745/151359683-6602ec17-a473-43a5-b7e7-866d8194c959.svg" />
-<img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/62269745/151359677-5c15589a-0feb-4c6d-82eb-6dad23e28eb4.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://user-images.githubusercontent.com/62269745/151359679-d1936e4f-c8ca-4e3a-b091-4baefbb99c3c.svg" />
-<img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/62269745/151359672-7056efb0-bea1-492f-9001-479006f3ecd6.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/62269745/151359671-d93c3ac9-eeb2-465a-8277-7e70332b6e09.svg" />
-<img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/62269745/151359676-cfb19ab5-63ee-4a85-8bba-f4fa88108ef9.svg" />
+<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/62269745/151358432-5e114212-1d71-4339-9066-7712f56326f0.svg" />
+<img align="left" alt="HTML5" width="35px" src="https://user-images.githubusercontent.com/62269745/151359079-35edc521-9e79-4539-b542-8a7bb6234495.svg" />
+<img align="left" alt="CSS3" width="35px" src="https://user-images.githubusercontent.com/62269745/151359335-1e65cadc-df9f-4cf2-951b-b667fa293457.svg" />
+<img align="left" alt="Sass" width="35px" src="https://user-images.githubusercontent.com/62269745/151359639-ba2b6625-ab9b-4f35-9b22-1cea4447de68.svg" />
+<img align="left" alt="JavaScript" width="35px" src="https://user-images.githubusercontent.com/62269745/151359936-62b0bb5a-20e8-44c8-8fd6-38662eba3a88.svg" />
+<img align="left" alt="React" width="35px" src="https://user-images.githubusercontent.com/62269745/151359683-6602ec17-a473-43a5-b7e7-866d8194c959.svg" />
+<img align="left" alt="SQL" width="35px" src="https://user-images.githubusercontent.com/62269745/151359677-5c15589a-0feb-4c6d-82eb-6dad23e28eb4.svg" />
+<img align="left" alt="MongoDB" width="35px" src="https://user-images.githubusercontent.com/62269745/151359679-d1936e4f-c8ca-4e3a-b091-4baefbb99c3c.svg" />
+<img align="left" alt="Git" width="35px" src="https://user-images.githubusercontent.com/62269745/151359672-7056efb0-bea1-492f-9001-479006f3ecd6.svg" />
+<img align="left" alt="GitHub" width="35px" src="https://user-images.githubusercontent.com/62269745/151359671-d93c3ac9-eeb2-465a-8277-7e70332b6e09.svg" />
+<img align="left" alt="Terminal" width="35px" src="https://user-images.githubusercontent.com/62269745/151359676-cfb19ab5-63ee-4a85-8bba-f4fa88108ef9.svg" />
 
 
 
