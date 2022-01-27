@@ -8,7 +8,7 @@
 
 🔗 &nbsp;**Connect with me**
 
-[<img align="left" alt="Huthaifa Salman | LinkedIn"  width="40" height="40"src="https://user-images.githubusercontent.com/62269745/151352812-ab8645ba-919e-4817-a4ff-3688b0bd08b6.svg" />][linkedin]
+[<img align="left" alt="Huthaifa Salman | LinkedIn"  width="40" height="40" src="https://user-images.githubusercontent.com/62269745/151352812-ab8645ba-919e-4817-a4ff-3688b0bd08b6.svg" />][linkedin]
 [<img align="left" alt="Huthaifa Salman | Instagram"  width="40" height="40" src="https://user-images.githubusercontent.com/62269745/151352769-630430ce-bb59-4414-b01b-1e26e17a7535.svg" />][instagram]
 [<img align="left" alt="Huthaifa Salman | Facebook"  width="40" height="40" src="https://user-images.githubusercontent.com/62269745/151352665-50176921-b795-4173-8a7d-5cb869b9f26d.svg" />][facebook]
 <br/>
