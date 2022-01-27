@@ -8,15 +8,15 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Huthaifa Salman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Huthaifa Salman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Huthaifa Salman | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Huthaifa Salman | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/62269745/151352812-ab8645ba-919e-4817-a4ff-3688b0bd08b6.svg" />][linkedin]
+[<img align="left" alt="Huthaifa Salman | Instagram" width="22px" src="https://user-images.githubusercontent.com/62269745/151352769-630430ce-bb59-4414-b01b-1e26e17a7535.svg" />][instagram]
+[<img align="left" alt="Huthaifa Salman | Facebook" width="22px" src="https://user-images.githubusercontent.com/62269745/151352665-50176921-b795-4173-8a7d-5cb869b9f26d.svg" />][facebook]
 <br/>
 <br/>
 ### Personal Profiles:
 
-[<img align="left" alt="Huthaifa Salman | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
-[<img align="left" alt="Huthaifa Salman | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
+[<img align="left" alt="Huthaifa Salman | Leetcode" width="22px" src="https://user-images.githubusercontent.com/62269745/151353683-3dc862b8-c276-4c53-8672-c4308811df14.svg" />][leetcode]
+[<img align="left" alt="Huthaifa Salman | Codeforces" width="22px" src="https://user-images.githubusercontent.com/62269745/151356247-909a0693-1541-4a7c-97cf-7420a77c4579.svg" />][codeforces]
 <br/>
 <br/>
 
