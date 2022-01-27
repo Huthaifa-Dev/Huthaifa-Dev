@@ -14,7 +14,8 @@
 [<img align="left" alt="Huthaifa Salman | Facebook"  width="40" height="40" src="https://user-images.githubusercontent.com/62269745/151352665-50176921-b795-4173-8a7d-5cb869b9f26d.svg" />][facebook]
 
 <br/>
-&nbsp;**𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜:**
+
+**𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜:**
 
 [<img align="left" alt="Huthaifa Salman | Leetcode" width="25px" src="https://user-images.githubusercontent.com/62269745/151356620-abdd9024-89f8-4c4f-8ae0-67ebeb97c00b.svg" />][leetcode]
 [<img align="left" alt="Huthaifa Salman | Codeforces" width="35px" src="https://user-images.githubusercontent.com/62269745/151356512-d7278471-0d3a-4227-bf85-736e3a692695.svg" />][codeforces]
