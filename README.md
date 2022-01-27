@@ -84,8 +84,7 @@
     </p>
 </details>
 
-<br/>
-<br/>
+
 | <a href="https://github.com/huthaifa-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=huthaifa-dev&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Huthaifa's github stats" /></a> | <a href="https://github.com/huthaifa-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huthaifa-dev&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
