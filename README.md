@@ -20,8 +20,6 @@
 <br/>
 <br/>
 
-[![Huthaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=huthaifa-dev)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Languages and Tools:
 
 <img align="left" alt="Sass" width="35px" src="https://user-images.githubusercontent.com/62269745/151359639-ba2b6625-ab9b-4f35-9b22-1cea4447de68.svg" />
@@ -36,6 +34,10 @@
 <img align="left" alt="After Effects" width="35px" src="https://user-images.githubusercontent.com/62269745/151360586-ab62f7b9-ade5-49b6-9ff9-95a6047ec5e7.svg" />
 <img align="left" alt="XD" width="35px" src="https://user-images.githubusercontent.com/62269745/151360585-5ac3aae5-3006-4f9f-a95f-9ed0fef57071.svg" />
 
+<br/>
+<br/>
+
+![Huthaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=huthaifa-dev&show_icons=true&theme=dracula)
 
 
 
