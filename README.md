@@ -14,6 +14,7 @@
 [<img align="left" alt="Huthaifa Salman | Facebook"  width="40" height="40" src="https://user-images.githubusercontent.com/62269745/151352665-50176921-b795-4173-8a7d-5cb869b9f26d.svg" />][facebook]
 
 <br/>
+<hr/>
 <br/>
 
 **𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜:**
@@ -22,7 +23,9 @@
 [<img align="left" alt="Huthaifa Salman | Codeforces" width="35px" src="https://user-images.githubusercontent.com/62269745/151356512-d7278471-0d3a-4227-bf85-736e3a692695.svg" />][codeforces]
 
 <br/>
+<hr/>
 <br/>
+
 📊 &nbsp;**𝚃𝚑𝚒𝚜 𝚠𝚎𝚎𝚔 𝙸 𝚜𝚙𝚎𝚗𝚝 𝚖𝚢 𝚝𝚒𝚖𝚎 𝚘𝚗**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Huz184&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
