@@ -15,7 +15,7 @@
 <br/>
 ### Personal Profiles:
 
-[<img align="left" alt="Huthaifa Salman | Leetcode" width="35px" src="https://user-images.githubusercontent.com/62269745/151356620-abdd9024-89f8-4c4f-8ae0-67ebeb97c00b.svg" />][leetcode]
+[<img align="left" alt="Huthaifa Salman | Leetcode" width="25px" src="https://user-images.githubusercontent.com/62269745/151356620-abdd9024-89f8-4c4f-8ae0-67ebeb97c00b.svg" />][leetcode]
 [<img align="left" alt="Huthaifa Salman | Codeforces" width="35px" src="https://user-images.githubusercontent.com/62269745/151356512-d7278471-0d3a-4227-bf85-736e3a692695.svg" />][codeforces]
 <br/>
 <br/>
