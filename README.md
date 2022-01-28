@@ -86,7 +86,7 @@
 </details>
 
 
-| <a href="https://github.com/huthaifa-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=huthaifa-dev&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Huthaifa's github stats" /></a> | <a href="https://github.com/huthaifa-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huthaifa-dev&layout=compact&theme=dracula&hide_border=true" /></a> |
+| <a href="https://github.com/huthaifa-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=huthaifa-dev&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&bg_color=00000000&text_color=777" alt="Huthaifa's github stats" /></a> | <a href="https://github.com/huthaifa-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huthaifa-dev&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&text_color=777" /></a> |
 | ------------- | ------------- |
 
 
