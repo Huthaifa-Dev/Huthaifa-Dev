@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I'm not a meme lord, but I meme a lot.
 <br/>
 
-#### 🔗 &nbsp;𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:
+#### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:
 
 [<img align="left" alt="Huthaifa Salman | LinkedIn"  width="40" height="40" src="https://user-images.githubusercontent.com/62269745/151352812-ab8645ba-919e-4817-a4ff-3688b0bd08b6.svg" />][linkedin]
 [<img align="left" alt="Huthaifa Salman | Instagram"  width="40" height="40" src="https://user-images.githubusercontent.com/62269745/151352769-630430ce-bb59-4414-b01b-1e26e17a7535.svg" />][instagram]
@@ -24,7 +24,7 @@
 <br/>
 <br/>
 
-#### 📊 &nbsp;𝚃𝚑𝚒𝚜 𝚠𝚎𝚎𝚔 𝙸 𝚜𝚙𝚎𝚗𝚝 𝚖𝚢 𝚝𝚒𝚖𝚎 𝚘𝚗
+#### 𝚃𝚑𝚒𝚜 𝚠𝚎𝚎𝚔 𝙸 𝚜𝚙𝚎𝚗𝚝 𝚖𝚢 𝚝𝚒𝚖𝚎 𝚘𝚗:
 
 <!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Huz184&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Huz184&hide_title=true&hide_border=true&langs_count=5&theme=dracula&bg_color=00000000&text_color=777)](https://github.com/huthaifa-dev/github-readme-stats)
