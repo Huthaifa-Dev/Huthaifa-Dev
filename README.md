@@ -12,13 +12,13 @@
 [<img align="left" alt="Huthaifa Salman | LinkedIn"  width="40" height="40" src="https://user-images.githubusercontent.com/62269745/151352812-ab8645ba-919e-4817-a4ff-3688b0bd08b6.svg" />][linkedin]
 [<img align="left" alt="Huthaifa Salman | Instagram"  width="40" height="40" src="https://user-images.githubusercontent.com/62269745/151352769-630430ce-bb59-4414-b01b-1e26e17a7535.svg" />][instagram]
 [<img align="left" alt="Huthaifa Salman | Facebook"  width="40" height="40" src="https://user-images.githubusercontent.com/62269745/151352665-50176921-b795-4173-8a7d-5cb869b9f26d.svg" />][facebook]
-
+<br/>
 
 #### 𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜:
 
 [<img align="left" alt="Huthaifa Salman | Leetcode" width="25px" src="https://user-images.githubusercontent.com/62269745/151356620-abdd9024-89f8-4c4f-8ae0-67ebeb97c00b.svg" />][leetcode]
 [<img align="left" alt="Huthaifa Salman | Codeforces" width="35px" src="https://user-images.githubusercontent.com/62269745/151356512-d7278471-0d3a-4227-bf85-736e3a692695.svg" />][codeforces]
-
+<br/>
 
 #### 𝚃𝚑𝚒𝚜 𝚠𝚎𝚎𝚔 𝙸 𝚜𝚙𝚎𝚗𝚝 𝚖𝚢 𝚝𝚒𝚖𝚎 𝚘𝚗:
 
