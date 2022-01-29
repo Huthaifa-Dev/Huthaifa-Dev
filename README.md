@@ -9,9 +9,20 @@
 
 #### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:
 
-[<img align="left" alt="Huthaifa Salman | LinkedIn"  width="40" height="40" src="https://user-images.githubusercontent.com/62269745/151352812-ab8645ba-919e-4817-a4ff-3688b0bd08b6.svg" />][linkedin]
-[<img align="left" alt="Huthaifa Salman | Instagram"  width="40" height="40" src="https://user-images.githubusercontent.com/62269745/151352769-630430ce-bb59-4414-b01b-1e26e17a7535.svg" />][instagram]
-[<img align="left" alt="Huthaifa Salman | Facebook"  width="40" height="40" src="https://user-images.githubusercontent.com/62269745/151352665-50176921-b795-4173-8a7d-5cb869b9f26d.svg" />][facebook]
+[<img align="left" alt=""  width="40" height="40" src="" />][linkedin]
+[<img align="left" alt=""  width="40" height="40" src="" />][instagram]
+[<img align="left" alt=""  width="40" height="40" src="" />][facebook]
+<p align="left">
+        <a target="_blank" href="https://linkedin.com/in/huthaifa-jamal" >
+            <img width="40" height="40" alt="Huthaifa Salman | LinkedIn" src="https://user-images.githubusercontent.com/62269745/151352812-ab8645ba-919e-4817-a4ff-3688b0bd08b6.svg"/>
+        </a>
+        <a target="_blank" href="https://instagram.com/huthaifa_salman" >
+            <img width="40" height="40" alt="Huthaifa Salman | Instagram" src="https://user-images.githubusercontent.com/62269745/151352769-630430ce-bb59-4414-b01b-1e26e17a7535.svg"/>
+        </a>
+        <a target="_blank" href="https://facebook.com/huthaifaS418" >
+            <img width="40" height="40" alt="Huthaifa Salman | Facebook" src="https://user-images.githubusercontent.com/62269745/151352665-50176921-b795-4173-8a7d-5cb869b9f26d.svg"/>
+        </a>
+</p>
 <br/>
 <br/>
 #### 𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜:
@@ -22,8 +33,8 @@
         <a target="_blank" href="https://codeforces.com/profile/HuthaifaSalman" >
             <img width="40" height="40" alt="Huthaifa Salman | Codeforces" src="https://user-images.githubusercontent.com/62269745/151356512-d7278471-0d3a-4227-bf85-736e3a692695.svg"/>
         </a>
-        <a target="_blank" href="https://codeforces.com/profile/HuthaifaSalman" >
-            <img width="40" height="40" alt="Huthaifa Salman | Codeforces" src="https://user-images.githubusercontent.com/62269745/151356512-d7278471-0d3a-4227-bf85-736e3a692695.svg"/>
+        <a target="_blank" href="https://www.awwwards.com/huthaifa-jamal" >
+            <img width="40" height="40" alt="Huthaifa Salman | Awwwards" src="https://user-images.githubusercontent.com/62269745/151675937-b8acdb4f-debb-4bb2-aede-356bee12b3c2.svg"/>
         </a>
 </p>
 
