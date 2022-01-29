@@ -9,9 +9,6 @@
 
 #### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:
 
-[<img align="left" alt=""  width="40" height="40" src="" />][linkedin]
-[<img align="left" alt=""  width="40" height="40" src="" />][instagram]
-[<img align="left" alt=""  width="40" height="40" src="" />][facebook]
 <p align="left">
         <a target="_blank" href="https://linkedin.com/in/huthaifa-jamal" >
             <img width="40" height="40" alt="Huthaifa Salman | LinkedIn" src="https://user-images.githubusercontent.com/62269745/151352812-ab8645ba-919e-4817-a4ff-3688b0bd08b6.svg"/>
