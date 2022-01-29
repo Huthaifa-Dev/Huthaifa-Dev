@@ -25,13 +25,13 @@
 #### 𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜:
 <p align="left">
         <a target="_blank" href="https://leetcode.com/Huthaifa184/" >
-            <img width="40" height="40" style="margin-right:5px;" alt="Huthaifa Salman | Leetcode"  src="https://user-images.githubusercontent.com/62269745/151356620-abdd9024-89f8-4c4f-8ae0-67ebeb97c00b.svg"/>
+            <img width="40" height="40" alt="Huthaifa Salman | Leetcode"  src="https://user-images.githubusercontent.com/62269745/151356620-abdd9024-89f8-4c4f-8ae0-67ebeb97c00b.svg"/>
         </a>
         <a target="_blank" href="https://codeforces.com/profile/HuthaifaSalman" >
-            <img width="40" height="40" style="margin-right:5px;" alt="Huthaifa Salman | Codeforces" src="https://user-images.githubusercontent.com/62269745/151356512-d7278471-0d3a-4227-bf85-736e3a692695.svg"/>
+            <img width="40" height="40" alt="Huthaifa Salman | Codeforces" src="https://user-images.githubusercontent.com/62269745/151356512-d7278471-0d3a-4227-bf85-736e3a692695.svg"/>
         </a>
         <a target="_blank" href="https://www.awwwards.com/huthaifa-jamal" >
-            <img width="40" height="40" style="margin-right:5px;" alt="Huthaifa Salman | Awwwards" src="https://user-images.githubusercontent.com/62269745/151675937-b8acdb4f-debb-4bb2-aede-356bee12b3c2.svg"/>
+            <img width="40" height="40" alt="Huthaifa Salman | Awwwards" src="https://user-images.githubusercontent.com/62269745/151675937-b8acdb4f-debb-4bb2-aede-356bee12b3c2.svg"/>
         </a>
 </p>
 
