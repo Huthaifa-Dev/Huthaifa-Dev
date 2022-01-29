@@ -15,9 +15,18 @@
 <br/>
 <br/>
 #### 𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜:
+<p align="left">
+        <a target="_blank" href="https://leetcode.com/Huthaifa184/" >
+            <img width="40" height="40" alt="Huthaifa Salman | Leetcode" src="https://user-images.githubusercontent.com/62269745/151356620-abdd9024-89f8-4c4f-8ae0-67ebeb97c00b.svg"/>
+        </a>
+        <a target="_blank" href="https://codeforces.com/profile/HuthaifaSalman" >
+            <img width="40" height="40" alt="Huthaifa Salman | Codeforces" src="https://user-images.githubusercontent.com/62269745/151356512-d7278471-0d3a-4227-bf85-736e3a692695.svg"/>
+        </a>
+        <a target="_blank" href="https://codeforces.com/profile/HuthaifaSalman" >
+            <img width="40" height="40" alt="Huthaifa Salman | Codeforces" src="https://user-images.githubusercontent.com/62269745/151356512-d7278471-0d3a-4227-bf85-736e3a692695.svg"/>
+        </a>
+</p>
 
-[<img align="left" alt="Huthaifa Salman | Leetcode" width="25px" src="https://user-images.githubusercontent.com/62269745/151356620-abdd9024-89f8-4c4f-8ae0-67ebeb97c00b.svg" />][leetcode]
-[<img align="left" alt="Huthaifa Salman | Codeforces" width="35px" src="https://user-images.githubusercontent.com/62269745/151356512-d7278471-0d3a-4227-bf85-736e3a692695.svg" />][codeforces]
 <br/>
 <br/>
 #### 𝚃𝚑𝚒𝚜 𝚠𝚎𝚎𝚔 𝙸 𝚜𝚙𝚎𝚗𝚝 𝚖𝚢 𝚝𝚒𝚖𝚎 𝚘𝚗:
@@ -27,7 +36,7 @@
 
 
 <details>
-        <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+        <summary><b>🛠️  Languages and Tools</b></summary>
         <br/>
     <p align="left">
         <a target="_blank" href="https://code.visualstudio.com/" >
