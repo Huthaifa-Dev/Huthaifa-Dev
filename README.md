@@ -42,7 +42,7 @@
 #### 𝚃𝚑𝚒𝚜 𝚠𝚎𝚎𝚔 𝙸 𝚜𝚙𝚎𝚗𝚝 𝚖𝚢 𝚝𝚒𝚖𝚎 𝚘𝚗:
 
 <!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Huz184&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Huz184&hide_title=true&hide_border=true&langs_count=5&theme=dracula&bg_color=00000000&text_color=777)](https://github.com/huthaifa-dev/github-readme-stats)
+[![Huthaifa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Huz184&hide_title=true&hide_border=true&langs_count=5&theme=dracula&bg_color=00000000&text_color=777)](https://github.com/huthaifa-dev/github-readme-stats)
 
 
 <details>
@@ -104,6 +104,7 @@
 | <a href="https://github.com/huthaifa-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=huthaifa-dev&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&bg_color=00000000&text_color=777" alt="Huthaifa's github stats" /></a> | <a href="https://github.com/huthaifa-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huthaifa-dev&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&text_color=777" /></a> |
 | ------------- | ------------- |
 
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
 
 [instagram]: https://instagram.com/huthaifa_salman
