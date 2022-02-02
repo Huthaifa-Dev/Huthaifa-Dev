@@ -2,7 +2,6 @@
 
 - 🔭 I’m building my profile and enahancing my social skills.
 - 🌱 I’m a Software Engineering student in my 4th year.
-- 📫 How to reach me: www.linkedin.com/in/huthaifa-jamal
 - 💬 Here is my CV: [Huthaifa Salman CV](https://docs.google.com/document/d/16Q0H4fbU4Ln4jeXZLc8lAY5dC5GkvWuNr7OQ-_B9SJg/edit?usp=sharing)
 - ⚡ Fun fact: I am not a meme lord but I am a living meme.
 <br/>
