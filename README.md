@@ -19,7 +19,6 @@
             <img width="40" height="40" alt="Huthaifa Salman | Facebook" src="https://user-images.githubusercontent.com/62269745/151352665-50176921-b795-4173-8a7d-5cb869b9f26d.svg"/>
         </a>
 </p>
-<br/>
 
 
 #### 𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜:
@@ -34,8 +33,6 @@
             <img width="40" height="40" alt="Huthaifa Salman | Awwwards" src="https://user-images.githubusercontent.com/62269745/151675937-b8acdb4f-debb-4bb2-aede-356bee12b3c2.svg"/>
         </a>
 </p>
-
-<br/>
 
 
 #### 𝚃𝚑𝚒𝚜 𝚠𝚎𝚎𝚔 𝙸 𝚜𝚙𝚎𝚗𝚝 𝚖𝚢 𝚝𝚒𝚖𝚎 𝚘𝚗:
