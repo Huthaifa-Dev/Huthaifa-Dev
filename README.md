@@ -93,6 +93,9 @@
         <a target="_blank" href="https://www.w3schools.com/cpp/">
             <img width="40" height="40" alt="C++"src="https://user-images.githubusercontent.com/62269745/151369228-abccc643-638a-4462-9df8-aa20217e83f1.svg" />
         </a>
+        <a target="_blank" href="https://www.python.org/doc/">
+            <img width="40" height="40" alt="Python"src="https://user-images.githubusercontent.com/62269745/158762680-7656d503-82ff-44ec-b0d1-f857ed0b9b13.svg" />
+        </a>   
     </p>
 </details>
 
