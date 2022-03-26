@@ -63,9 +63,6 @@
         <a target="_blank" href="https://reactjs.org">
             <img width="40" height="40" alt="React" src="https://user-images.githubusercontent.com/62269745/151359683-6602ec17-a473-43a5-b7e7-866d8194c959.svg" />
         </a>
-        <a target="_blank" href="https://www.w3schools.com/sql/">
-            <img width="40" height="40" alt="SQL" src="https://user-images.githubusercontent.com/62269745/151359677-5c15589a-0feb-4c6d-82eb-6dad23e28eb4.svg" />
-        </a>
         <a target="_blank" href="https://www.mongodb.com/">
             <img width="40" height="40" alt="MongoDB" src="https://user-images.githubusercontent.com/62269745/151359679-d1936e4f-c8ca-4e3a-b091-4baefbb99c3c.svg" />
         </a>
