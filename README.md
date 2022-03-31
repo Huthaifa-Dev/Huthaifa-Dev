@@ -1,7 +1,4 @@
-<p align="right">
- ![]("https://komarev.com/ghpvc/?username=Huthaifa-Dev")
-</p>
-
+<img align="right" src='https://komarev.com/ghpvc/?username=Huthaifa-Dev' />
 
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
