@@ -40,7 +40,10 @@
 <!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Huz184&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
 [![Huthaifa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Huz184&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=999)](https://github.com/huthaifa-dev/github-readme-stats)
 
-
+#### Visitors:
+<div align="center">
+![](https://komarev.com/ghpvc/?username=Huthaifa-Dev)
+</div>
 <details>
         <summary><b>🛠️  Languages and Tools</b></summary>
         <br/>
