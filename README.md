@@ -1,3 +1,8 @@
+<p align="right">
+ ![]("https://komarev.com/ghpvc/?username=Huthaifa-Dev")
+</p>
+
+
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 - 🔭 I’m building my profile and enahancing my social skills.
@@ -40,9 +45,6 @@
 <!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Huz184&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
 [![Huthaifa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Huz184&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=999)](https://github.com/huthaifa-dev/github-readme-stats)
 
-#### Visitors:
-
-![](https://komarev.com/ghpvc/?username=Huthaifa-Dev)
 
 <details>
         <summary><b>🛠️  Languages and Tools</b></summary>
