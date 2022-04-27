@@ -1,11 +1,12 @@
 <img align="right" src='https://komarev.com/ghpvc/?label=Visits&username=Huthaifa-Dev' />
 
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-
+#### About me:
+- 🚀 Experienced self-learner capable of picking up new technologies in the computer software sector. I am eager to learn everything that would help me            improve my talents and make my thoughts stand out.
 - 🔭 I’m building my profile and enahancing my social skills.
 - 🌱 I’m a Software Engineering student in my 4th year.
 - 💬 Here is my CV: [Huthaifa Salman CV](https://docs.google.com/document/d/16Q0H4fbU4Ln4jeXZLc8lAY5dC5GkvWuNr7OQ-_B9SJg/edit?usp=sharing)
-- ⚡ Fun fact: I am not a meme lord but I am a living meme.
+<!-- - ⚡ Fun fact: I am not a meme lord but I am a living meme. -->
 <br/>
 
 #### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:
