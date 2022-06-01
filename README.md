@@ -1,6 +1,6 @@
 <img align="right" src='https://komarev.com/ghpvc/?label=Visits&username=Huthaifa-Dev' />
 
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" hight="20px"></a>
 #### About me:
 - 🚀 Experienced self-learner capable of picking up new technologies in the computer software sector. I am eager to learn everything that would help me            improve my talents and make my thoughts stand out.
 - 🔭 I’m building my profile and enahancing my social skills.
