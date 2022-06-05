@@ -2,6 +2,7 @@
 
 
 ###  <img src="https://media2.giphy.com/media/hVsHKwMm3ytVYDNBQy/giphy.gif?" height="100px">
+###  <img src="https://media0.giphy.com/media/3oKIPjVWNZsouSH4DS/giphy.gif?" height="200px" align="right">
 #### About me:
 - 🚀 Experienced self-learner capable of picking up new technologies in the computer software sector. I am eager to learn everything that would help me            improve my talents and make my thoughts stand out.
 - 🔭 I’m building my profile and enahancing my social skills.
@@ -11,9 +12,9 @@
 <br/>
 
 #### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:
-<img src="https://media4.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" height="350px" align="right">
 
-<p align="left" class="flex start">
+<img src="https://media4.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" height="350px" align="right">
+<p align="left" >
         <a target="_blank" href="https://linkedin.com/in/huthaifa-jamal" >
             <img width="40" height="40" alt="Huthaifa Salman | LinkedIn" src="https://user-images.githubusercontent.com/62269745/151352812-ab8645ba-919e-4817-a4ff-3688b0bd08b6.svg"/>
         </a>
@@ -22,9 +23,7 @@
         </a>
         <a target="_blank" href="https://facebook.com/huthaifaS418" >
             <img width="40" height="40" alt="Huthaifa Salman | Facebook" src="https://user-images.githubusercontent.com/62269745/151352665-50176921-b795-4173-8a7d-5cb869b9f26d.svg"/>
-        </a>
-<img src="https://media2.giphy.com/media/d7foSDZc2SnUAu18dh/giphy.gif" height="150px">
-        
+        </a>   
 </p>
 
 #### 𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜:
@@ -39,8 +38,6 @@
             <img width="40" height="40" alt="Huthaifa Salman | Awwwards" src="https://user-images.githubusercontent.com/62269745/151675937-b8acdb4f-debb-4bb2-aede-356bee12b3c2.svg"/>
         </a>
 </p>
-
-
 #### 𝚃𝚑𝚒𝚜 𝚠𝚎𝚎𝚔 𝙸 𝚜𝚙𝚎𝚗𝚝 𝚖𝚢 𝚝𝚒𝚖𝚎 𝚘𝚗:
 
 <!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Huz184&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) -->
@@ -107,8 +104,9 @@
 | <a href="https://github.com/huthaifa-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=huthaifa-dev&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=999" alt="Huthaifa's github stats" /></a> | <a href="https://github.com/huthaifa-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huthaifa-dev&layout=compact&hide_border=true&bg_color=00000000&text_color=999" /></a> |
 | ------------- | ------------- |
 
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+<img src="https://c.tenor.com/u36BfEV1NfwAAAAC/mihoyo-genshin.gif" width="100%" >
 
 [instagram]: https://instagram.com/huthaifa_salman
 [linkedin]: https://linkedin.com/in/huthaifa-jamal
@@ -117,12 +115,4 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 [codeforces]: https://codeforces.com/profile/HuthaifaSalman
 
 
-<style>
-        .flex{
-                background-color:red;
-        }
-        .start{
-                
-        }
-</style>
-
+          
