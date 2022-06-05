@@ -105,7 +105,6 @@
     <img src="https://c.tenor.com/6x3KJ9Fx1lgAAAAi/hu-tao-genshin-impact.gif" height="250px" align="center">
     <img src="https://c.tenor.com/6x3KJ9Fx1lgAAAAi/hu-tao-genshin-impact.gif" height="250px" align="center">
     <img src="https://c.tenor.com/6x3KJ9Fx1lgAAAAi/hu-tao-genshin-impact.gif" height="250px" align="center">
-    <img src="https://c.tenor.com/6x3KJ9Fx1lgAAAAi/hu-tao-genshin-impact.gif" height="250px" align="center">
 </details>
 
 
