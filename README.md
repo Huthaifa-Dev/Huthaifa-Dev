@@ -1,6 +1,7 @@
 <img align="right" src='https://komarev.com/ghpvc/?label=Visits&username=Huthaifa-Dev' />
 
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
+###  <img src="https://media2.giphy.com/media/hVsHKwMm3ytVYDNBQy/giphy.gif?" height="100px">
 #### About me:
 - 🚀 Experienced self-learner capable of picking up new technologies in the computer software sector. I am eager to learn everything that would help me            improve my talents and make my thoughts stand out.
 - 🔭 I’m building my profile and enahancing my social skills.
@@ -10,8 +11,9 @@
 <br/>
 
 #### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:
+<img src="https://media4.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" height="350px" align="right">
 
-<p align="left">
+<p align="left" class="flex start">
         <a target="_blank" href="https://linkedin.com/in/huthaifa-jamal" >
             <img width="40" height="40" alt="Huthaifa Salman | LinkedIn" src="https://user-images.githubusercontent.com/62269745/151352812-ab8645ba-919e-4817-a4ff-3688b0bd08b6.svg"/>
         </a>
@@ -21,8 +23,9 @@
         <a target="_blank" href="https://facebook.com/huthaifaS418" >
             <img width="40" height="40" alt="Huthaifa Salman | Facebook" src="https://user-images.githubusercontent.com/62269745/151352665-50176921-b795-4173-8a7d-5cb869b9f26d.svg"/>
         </a>
+<img src="https://media2.giphy.com/media/d7foSDZc2SnUAu18dh/giphy.gif" height="150px">
+        
 </p>
-
 
 #### 𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜:
 <p align="left">
@@ -113,4 +116,13 @@ NOTE: Top languages does not indicate my skill level or anything like that. It i
 [leetcode]: https://leetcode.com/Huthaifa184/
 [codeforces]: https://codeforces.com/profile/HuthaifaSalman
 
+
+<style>
+        .flex{
+                background-color:red;
+        }
+        .start{
+                
+        }
+</style>
 
