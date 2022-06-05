@@ -1,8 +1,9 @@
 <img align="right" src='https://komarev.com/ghpvc/?label=Visits&username=Huthaifa-Dev' />
+<!-- <img align="right" src='https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-animated/sticker_17.gif?49a48c85b2739c071b9ccd9fa687adfd' width='300' height='' /> -->
 
 
 ###  <img src="https://media2.giphy.com/media/hVsHKwMm3ytVYDNBQy/giphy.gif?" height="100px">
-###  <img src="https://media0.giphy.com/media/3oKIPjVWNZsouSH4DS/giphy.gif?" height="200px" align="right">
+<img src="https://media0.giphy.com/media/3oKIPjVWNZsouSH4DS/giphy.gif?" height="200px" align="right">
 #### About me:
 - 🚀 Experienced self-learner capable of picking up new technologies in the computer software sector. I am eager to learn everything that would help me            improve my talents and make my thoughts stand out.
 - 🔭 I’m building my profile and enahancing my social skills.
@@ -14,6 +15,7 @@
 #### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:
 
 <img src="https://media4.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" height="350px" align="right">
+
 <p align="left" >
         <a target="_blank" href="https://linkedin.com/in/huthaifa-jamal" >
             <img width="40" height="40" alt="Huthaifa Salman | LinkedIn" src="https://user-images.githubusercontent.com/62269745/151352812-ab8645ba-919e-4817-a4ff-3688b0bd08b6.svg"/>
@@ -98,6 +100,10 @@
         </a>
         <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
     </p>
+    <img src="https://c.tenor.com/6x3KJ9Fx1lgAAAAi/hu-tao-genshin-impact.gif" height="250px" align="center">
+    <img src="https://c.tenor.com/6x3KJ9Fx1lgAAAAi/hu-tao-genshin-impact.gif" height="250px" align="center">
+    <img src="https://c.tenor.com/6x3KJ9Fx1lgAAAAi/hu-tao-genshin-impact.gif" height="250px" align="center">
+    <img src="https://c.tenor.com/6x3KJ9Fx1lgAAAAi/hu-tao-genshin-impact.gif" height="250px" align="center">
 </details>
 
 
@@ -106,7 +112,7 @@
 
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
-<img src="https://c.tenor.com/u36BfEV1NfwAAAAC/mihoyo-genshin.gif" width="100%" >
+<!-- <img src="https://c.tenor.com/u36BfEV1NfwAAAAC/mihoyo-genshin.gif" width="100%" > -->
 
 [instagram]: https://instagram.com/huthaifa_salman
 [linkedin]: https://linkedin.com/in/huthaifa-jamal
