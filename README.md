@@ -12,6 +12,7 @@
 - 💬 Here is my CV: [Huthaifa Salman CV](https://docs.google.com/document/d/16Q0H4fbU4Ln4jeXZLc8lAY5dC5GkvWuNr7OQ-_B9SJg/edit?usp=sharing)
 <!-- - ⚡ Fun fact: I am not a meme lord but I am a living meme. -->
 <br/>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Huthaifa-Dev&theme=dark"></p>
 
 #### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:
 
@@ -107,12 +108,10 @@
     <img src="https://c.tenor.com/6x3KJ9Fx1lgAAAAi/hu-tao-genshin-impact.gif" height="250px" align="center">
 </details>
 
+<section align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=huthaifa-dev&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=999" alt="Huthaifa's github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huthaifa-dev&layout=compact&hide_border=true&bg_color=00000000&text_color=999" /></section>
 
-| <a href="https://github.com/huthaifa-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=huthaifa-dev&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=999" alt="Huthaifa's github stats" /></a> | <a href="https://github.com/huthaifa-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huthaifa-dev&layout=compact&hide_border=true&bg_color=00000000&text_color=999" /></a> |
-| ------------- | ------------- |
-
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+<p align="left">NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</p>
 <!-- <img src="https://c.tenor.com/u36BfEV1NfwAAAAC/mihoyo-genshin.gif" width="100%" > -->
 
 [instagram]: https://instagram.com/huthaifa_salman
