@@ -107,12 +107,9 @@
     <img src="https://c.tenor.com/6x3KJ9Fx1lgAAAAi/hu-tao-genshin-impact.gif" height="250px" align="left">
     <img src="https://c.tenor.com/6x3KJ9Fx1lgAAAAi/hu-tao-genshin-impact.gif" height="250px" align="left">
     
-<section>
 
-<img src="https://github-readme-stats.vercel.app/api?username=huthaifa-dev&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=999" alt="Huthaifa's github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huthaifa-dev&layout=compact&hide_border=true&bg_color=00000000&text_color=999" />
-
-</section>
+| <a href="https://github.com/huthaifa-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=huthaifa-dev&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=999" alt="Huthaifa's github stats" /></a> | <a href="https://github.com/huthaifa-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huthaifa-dev&layout=compact&hide_border=true&bg_color=00000000&text_color=999" /></a> |
+| ------------- | ------------- |
 </br>
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
