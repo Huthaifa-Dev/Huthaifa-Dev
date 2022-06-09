@@ -2,7 +2,10 @@
 <!-- <img align="right" src='https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-animated/sticker_17.gif?49a48c85b2739c071b9ccd9fa687adfd' width='300' height='' /> -->
 
 
-###  <img src="https://media2.giphy.com/media/hVsHKwMm3ytVYDNBQy/giphy.gif?" height="100px">
+ ### <img src="https://media2.giphy.com/media/hVsHKwMm3ytVYDNBQy/giphy.gif?" height="100px" >
+
+
+
 <img src="https://media0.giphy.com/media/3oKIPjVWNZsouSH4DS/giphy.gif?" height="200px" align="right">
 
 #### About me:
@@ -12,12 +15,18 @@
 - 💬 Here is my CV: [Huthaifa Salman CV](https://docs.google.com/document/d/16Q0H4fbU4Ln4jeXZLc8lAY5dC5GkvWuNr7OQ-_B9SJg/edit?usp=sharing)
 <!-- - ⚡ Fun fact: I am not a meme lord but I am a living meme. -->
 <br/>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Huthaifa-Dev&theme=dark&hide_border=true&bg_color=00000000&text_color=999"></p>
+<p align="center">
+
+ <img width="20%" src="atoms.gif">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Huthaifa-Dev&theme=dark&hide_border=true&bg_color=00000000&text_color=999" width="50%">
+
+ <img width="20%" src="atoms.gif">
+</p>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huthaifa-dev&layout=compact&hide_border=true&bg_color=00000000&text_color=999" /> -->
 
 #### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:
 
-<img src="https://media4.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" height="350px" align="right">
+<img src="https://media4.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="40%" align="right">
 
 <p align="left" >
         <a target="_blank" href="https://linkedin.com/in/huthaifa-jamal" >
