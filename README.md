@@ -41,6 +41,9 @@
  <a target="_blank" href="https://t.me/HUZ184" >
             <img width="40" height="40" alt="Huthaifa Salman | Telegram" src="https://user-images.githubusercontent.com/62269745/174492492-86a5817e-4fe3-4d95-b218-83c4a14ed0dc.svg"/>
         </a>   
+ <a target="_blank" href="https://discordapp.com/users/468758312951873560/" >
+            <img width="40" height="40" alt="Huthaifa Salman | Discord" src="https://user-images.githubusercontent.com/62269745/174492557-874b84e0-cef0-44c4-96b7-0778838a9f40.svg"/>
+        </a>   
 </p>
 
 #### 𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜:
@@ -54,6 +57,7 @@
         <a target="_blank" href="https://www.awwwards.com/huthaifa-jamal" >
             <img width="40" height="40" alt="Huthaifa Salman | Awwwards" src="https://user-images.githubusercontent.com/62269745/151675937-b8acdb4f-debb-4bb2-aede-356bee12b3c2.svg"/>
         </a>
+ 
 </p>
 
 #### 𝚃𝚑𝚒𝚜 𝚠𝚎𝚎𝚔 𝙸 𝚜𝚙𝚎𝚗𝚝 𝚖𝚢 𝚝𝚒𝚖𝚎 𝚘𝚗:
