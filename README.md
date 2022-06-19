@@ -38,6 +38,9 @@
         <a target="_blank" href="https://facebook.com/huthaifaS418" >
             <img width="40" height="40" alt="Huthaifa Salman | Facebook" src="https://user-images.githubusercontent.com/62269745/151352665-50176921-b795-4173-8a7d-5cb869b9f26d.svg"/>
         </a>   
+ <a target="_blank" href="https://t.me/HUZ184" >
+            <img width="40" height="40" alt="Huthaifa Salman | Telegram" src="https://user-images.githubusercontent.com/62269745/174492492-86a5817e-4fe3-4d95-b218-83c4a14ed0dc.svg"/>
+        </a>   
 </p>
 
 #### 𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜:
