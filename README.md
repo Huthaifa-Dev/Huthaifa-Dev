@@ -26,7 +26,7 @@
 
 #### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:
 
-<img src="https://media4.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" height="350px" align="right">
+<img src="https://media4.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" height="300px" align="right">
 
 <p align="left" >
         <a target="_blank" href="https://linkedin.com/in/huthaifa-jamal" >
