@@ -44,7 +44,7 @@
  <a target="_blank" href="https://discordapp.com/users/468758312951873560/" >
             <img width="40" height="40" alt="Huthaifa Salman | Discord" src="https://user-images.githubusercontent.com/62269745/174492557-874b84e0-cef0-44c4-96b7-0778838a9f40.svg"/>
         </a>   
- <a href="https://medium.com/@huthaifajamal2" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ziad-adeela" height="40" width="40" style="max-width: 100%;"></a>
+        <a href="https://medium.com/@huthaifajamal2" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-   generator/master/src/images/icons/Social/medium.svg" alt="@huthaifajamal2" height="40" width="40" /></a>
 </p>
 
 #### 𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜:
