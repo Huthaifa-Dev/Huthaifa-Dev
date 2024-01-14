@@ -1,3 +1,4 @@
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
 <img align="right" src='https://komarev.com/ghpvc/?label=Visits&username=Huthaifa-Dev' />
 <!-- <img align="right" src='https://s3.getstickerpack.com/storage/uploads/sticker-pack/genshin-impact-animated/sticker_17.gif?49a48c85b2739c071b9ccd9fa687adfd' width='300' height='' /> -->
 
@@ -6,7 +7,6 @@
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
 
-<img src="https://media0.giphy.com/media/3oKIPjVWNZsouSH4DS/giphy.gif?" height="200px" align="right">
 
 #### About me:
 - 🚀 Experienced self-learner capable of picking up new technologies in the computer software sector. I am eager to learn everything that would help me            improve my talents and make my thoughts stand out.
@@ -22,6 +22,7 @@
 
  <img height="200px" src="atoms.gif">
 </p>
+<img src="https://media0.giphy.com/media/3oKIPjVWNZsouSH4DS/giphy.gif?" height="200px" align="right">
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huthaifa-dev&layout=compact&hide_border=true&bg_color=00000000&text_color=999" /> -->
 
 #### 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎:
