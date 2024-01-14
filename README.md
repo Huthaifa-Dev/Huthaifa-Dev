@@ -3,14 +3,14 @@
 
 
  ### <img src="https://media2.giphy.com/media/hVsHKwMm3ytVYDNBQy/giphy.gif?" height="100px" >
-
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
 
 <img src="https://media0.giphy.com/media/3oKIPjVWNZsouSH4DS/giphy.gif?" height="200px" align="right">
 
 #### About me:
 - 🚀 Experienced self-learner capable of picking up new technologies in the computer software sector. I am eager to learn everything that would help me            improve my talents and make my thoughts stand out.
-- 🔭 I’m building my profile and enahancing my social skills.
+- 🔭 I’m building my profile and enhancing my social skills.
 - 🌱 I’m a Software Engineering student in my 4th year.
 - 💬 Here is my CV: [Huthaifa Salman CV](https://docs.google.com/document/d/16Q0H4fbU4Ln4jeXZLc8lAY5dC5GkvWuNr7OQ-_B9SJg/edit?usp=sharing)
 <!-- - ⚡ Fun fact: I am not a meme lord but I am a living meme. -->
@@ -132,7 +132,7 @@
 </br>
 
 > **Note**
-> Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+> Top languages do not indicate my skill level or anything like that. It is just a metric of which I have hosted languages on GitHub based on the usage across repositories. There are others that I haven't put up on GitHub.
 
 <svg version="1.1" class="logo" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
 xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500" xml:space="preserve">
