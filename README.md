@@ -120,12 +120,6 @@
         </a>
         <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
     </p>
-    <p align="center">
-      <img src="https://c.tenor.com/6x3KJ9Fx1lgAAAAi/hu-tao-genshin-impact.gif" width="150" align="center">
-      <img src="https://c.tenor.com/6x3KJ9Fx1lgAAAAi/hu-tao-genshin-impact.gif" width="150" align="center">
-      <img src="https://c.tenor.com/6x3KJ9Fx1lgAAAAi/hu-tao-genshin-impact.gif" width="150" align="center">
-      <img src="https://c.tenor.com/6x3KJ9Fx1lgAAAAi/hu-tao-genshin-impact.gif" width="150" align="center">
-    </p>
 
 | <a href="https://github.com/huthaifa-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=huthaifa-dev&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&text_color=999" alt="Huthaifa's github stats" /></a> | <a href="https://github.com/huthaifa-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huthaifa-dev&layout=compact&hide_border=true&bg_color=00000000&text_color=999" /></a> |
 | ------------- | ------------- |
